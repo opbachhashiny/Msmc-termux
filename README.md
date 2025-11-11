@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ### 📂 Preparing Files
-
+**MUST DO ```nano config.ini``` and turn proxyless bancheck to false
 Before running MSMC, make sure you create these files in the same folder as `MSMC.py`:
 
 ```
@@ -67,10 +67,4 @@ python MSMC.py
   pip install requests urllib3 colorama
   ```
 * Results are saved in the `results/` folder.
-
-```
-
----
-
-Would you like me to also make it detect if it’s running in **Termux automatically** (and skip all file dialogs automatically for Linux too)? That would make it plug-and-play across both Windows and Android.
-```
+ you can do nano results/hits.txt to see hits
