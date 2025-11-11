@@ -4,6 +4,7 @@
 
 ````md
 Install Termux
+https://play.google.com/store/apps/details?id=com.termux
 then install python in it using
 ```sudo apt update
 sudo apt install python3 -y
