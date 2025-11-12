@@ -1,7 +1,8 @@
 
 
 ---
-
+YOU NEED TO ROOT UR DEVICE BRFORE USE 
+so its close to useless ill make another plan
 ````md
 Install Termux
 https://play.google.com/store/apps/details?id=com.termux
